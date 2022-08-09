@@ -1,1 +1,1 @@
-alert("Oi professor!")
+alert("Bem vindo ao site do Vasco vasco amo vasco amor pelo vasco, vascaíno serei para sempre vasco!")
